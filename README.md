@@ -4,5 +4,5 @@ Getting acquainted with Bootstrap.js found at:
 
 Explore navbar functionality and and use some cards
 
-Credit:
+Credit:  
 **MIT xPRO: Professional Certificate in Coding: Full Stack Development with MERN - September 2021**
